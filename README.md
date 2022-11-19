@@ -1,6 +1,5 @@
 # SP-IT-Backend
-## Description
-### E-Commerce Backend API Using Express
+E-Commerce Backend API Using Express
 ## Set-Up
 1.  Modify <b>databaseConfig.js</b> (port number, MySQL account username and password) and <b>config.js</b> (secret key)
 2.	Open command prompt and ```cd``` into directory of folder
